@@ -1,0 +1,3 @@
+.plant-card { transition: transform .15s; }
+.plant-card:hover { transform: translateY(-4px); }
+.plant-emoji { font-size: 72px; text-align: center; background: #e8f5e9; padding: 24px 0; }
